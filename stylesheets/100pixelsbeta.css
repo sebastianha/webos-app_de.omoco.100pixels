@@ -1,0 +1,62 @@
+.palm-page-header-wrapper {
+    font-weight: bold;
+	text-align:center;
+	font-size: 30px;
+	color: #000000;
+	height: 50px;
+  	line-height: 50px;
+	background-image:url(../images/header.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.bigpixel {
+	width:16px;
+	height:16px;
+	border-style:solid;
+	border-color:#ffffff;
+	border-width:2px;
+	float:left;
+	background-color:#ffffff;
+}
+
+.bigpixelborder {
+	width:20px;
+	height:20px;
+	float:left;
+	background-color:#ffffff;
+	opacity: 0.4;
+}
+
+
+#waiting_spinner
+{
+	z-index: 1002;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+	width:320px;
+	height:480px;
+	background-color:#000000;
+	opacity: 0.85;
+	display: block;
+	color:#ffffff;
+}
+
+#waiting_spinner3
+{
+	z-index: 1002;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+	width:320px;
+	height:480px;
+	background-color:#000000;
+	opacity: 0.85;
+	display: none;
+	color:#ffffff;
+}

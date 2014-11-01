@@ -1,0 +1,9 @@
+{
+	"id": "de.omoco.100pixels.pro",
+	"version": "1.0.2",
+	"vendor": "100pixels.omoco.de",
+	"type": "web",
+	"main": "index.html",
+	"title": "My 100 Pixels Pro",
+	"icon": "icon.png"
+}
